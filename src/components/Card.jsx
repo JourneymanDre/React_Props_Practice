@@ -11,6 +11,7 @@ function Card(props) {
 <div className="bottom">
 <p className="info">{props.tel}</p>
 <p className="info">{props.email}</p>
+<p className="info">{props.website}</p>
 </div>
 </div>
   );
